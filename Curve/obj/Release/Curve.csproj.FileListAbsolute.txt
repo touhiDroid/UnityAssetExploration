@@ -1,0 +1,16 @@
+C:\Work\Curve\obj\Release\ResolveAssemblyReference.cache
+C:\Work\Curve\Temp\bin\Release\Irrelvant.dll
+C:\Work\Curve\Temp\bin\Release\Irrelvant.pdb
+C:\Work\Curve\Temp\bin\Release\Boo.Lang.dll
+C:\Work\Curve\Temp\bin\Release\UnityEditor.dll
+C:\Work\Curve\Temp\bin\Release\UnityEngine.dll
+C:\Work\Curve\Temp\bin\Release\UnityScript.dll
+C:\Work\Curve\Temp\bin\Release\nunit.framework.dll
+C:\Work\Curve\Temp\bin\Release\Boo.Lang.Compiler.dll
+C:\Work\Curve\Temp\bin\Release\Boo.Lang.PatternMatching.dll
+C:\Work\Curve\Temp\bin\Release\Mono.Security.dll
+C:\Work\Curve\Temp\bin\Release\Boo.Lang.Useful.dll
+C:\Work\Curve\Temp\bin\Release\UnityScript.Lang.dll
+C:\Work\Curve\Temp\bin\Release\Boo.Lang.Parser.dll
+C:\Work\Curve\obj\Release\Irrelvant.dll
+C:\Work\Curve\obj\Release\Irrelvant.pdb

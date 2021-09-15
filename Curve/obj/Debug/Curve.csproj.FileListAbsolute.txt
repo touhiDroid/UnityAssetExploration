@@ -1,0 +1,16 @@
+C:\Work\Curve\Temp\bin\Debug\Irrelvant.dll
+C:\Work\Curve\Temp\bin\Debug\Irrelvant.pdb
+C:\Work\Curve\Temp\bin\Debug\Boo.Lang.dll
+C:\Work\Curve\Temp\bin\Debug\UnityEditor.dll
+C:\Work\Curve\Temp\bin\Debug\UnityEngine.dll
+C:\Work\Curve\Temp\bin\Debug\UnityScript.dll
+C:\Work\Curve\Temp\bin\Debug\nunit.framework.dll
+C:\Work\Curve\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Work\Curve\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Work\Curve\Temp\bin\Debug\Mono.Security.dll
+C:\Work\Curve\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Work\Curve\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Work\Curve\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Work\Curve\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\Curve\obj\Debug\Irrelvant.dll
+C:\Work\Curve\obj\Debug\Irrelvant.pdb
